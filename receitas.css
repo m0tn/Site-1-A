@@ -1,0 +1,52 @@
+header {
+     background: lightpink;
+     padding: 20px 0;
+}
+
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.titulo-direita2 {
+    font-weight: bold;
+    font-size: 30px;
+    position:absolute;
+    top: 110px;
+    right: 0;
+}
+.pave{
+    width:50%;
+	height: 350px;
+	margin-top: 0%;
+    margin-left: 750px;
+}
+
+.pave-bis{
+    background-color: lightpink;
+}
+
+
+.maracuja{
+    width:50%;
+	height: 350px;
+	margin-top: 0%;
+    margin-left: 750px;
+}
+
+.mousse-m{
+    background-color: lightpink;
+}
+
+
+.chocolate{
+    width:50%;
+	height: 150px;
+	margin-top: 0%;
+    margin-left: 750px;
+}
+
+.mousse-c{
+    background-color: lightpink;
+}
