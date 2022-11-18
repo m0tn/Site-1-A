@@ -50,3 +50,12 @@ header {
 .mousse-c{
     background-color: lightpink;
 }
+
+footer {
+    text-align: center;
+    background-color: lightcoral;
+}
+
+.copyright {
+    font-size: 13px;
+}
